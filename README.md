@@ -23,7 +23,7 @@
 
 ## 👀 Demo
 
-- [SPlayer](https://music.imsyy.top/)
+- [SPlayer](https://music.yunxge.cn/)
 
 ## 🎉 功能
 
