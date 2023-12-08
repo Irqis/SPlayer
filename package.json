@@ -1,11 +1,11 @@
 {
-  "name": "splayer",
+  "name": "云享阁音乐站",
   "version": "2.0.0-beta.4",
   "description": "A minimalist music player",
   "main": "./out/main/index.js",
-  "author": "imsyy",
-  "home": "https://imsyy.top",
-  "github": "https://github.com/imsyy/SPlayer",
+  "author": "云享阁",
+  "home": "https://yunxge.cn",
+  "github": "https://github.com/Irqis/SPlayer",
   "engines": {
     "node": ">=16.16.0"
   },
